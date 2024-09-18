@@ -127,7 +127,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "C:\\Users\\hayata\\Documents\\BackEnd-Projects\\express-rest-api\\src\\infrastructure\\persistence\\prisma\\client",
+      "value": "C:\\Document\\Node Projects\\express-rest-api\\express-rest-api\\src\\infrastructure\\persistence\\prisma\\client",
       "fromEnvVar": null
     },
     "config": {
@@ -145,12 +145,11 @@ const config = {
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "C:\\Users\\hayata\\Documents\\BackEnd-Projects\\express-rest-api\\prisma\\schema.prisma",
+    "sourceFilePath": "C:\\Document\\Node Projects\\express-rest-api\\express-rest-api\\prisma\\schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
-    "rootEnvPath": null,
-    "schemaEnvPath": "../../../../../.env"
+    "rootEnvPath": null
   },
   "relativePath": "../../../../../prisma",
   "clientVersion": "5.19.1",
@@ -159,6 +158,7 @@ const config = {
     "db"
   ],
   "activeProvider": "mysql",
+  "postinstall": true,
   "inlineDatasources": {
     "db": {
       "url": {
